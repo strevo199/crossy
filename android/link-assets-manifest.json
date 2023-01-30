@@ -1,0 +1,25 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/BentonSans-Black.ttf",
+      "sha1": "109f9c5b281ba0ccfc871991ae77bccb3a963c39"
+    },
+    {
+      "path": "src/assets/fonts/BentonSans-Bold.ttf",
+      "sha1": "1b4d1acb1d72f9e2eac7ec00bac418e2a694bb7e"
+    },
+    {
+      "path": "src/assets/fonts/BentonSans-Book.ttf",
+      "sha1": "eeabecf56f8f6a67ec04189b829ac434f405b09b"
+    },
+    {
+      "path": "src/assets/fonts/BentonSans-Medium.ttf",
+      "sha1": "dbc2461999e54ca648df2c3462eb246ca40b945e"
+    },
+    {
+      "path": "src/assets/fonts/BentonSans-Regular.ttf",
+      "sha1": "701de5b10ababf8e81ddef46ee3acec3bc244e1a"
+    }
+  ]
+}
